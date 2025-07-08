@@ -1,0 +1,6 @@
+{
+    "versions": [
+        {"1.0.0rc": {"forceClose":false}},
+        {"default": {"forceClose":true, "forceCloseMsg":"Please update the app to the latest version.", "forceCloseUrl":null}}
+    ]
+}
